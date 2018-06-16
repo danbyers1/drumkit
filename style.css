@@ -20,7 +20,7 @@ body:before {
   right: 0;
   bottom: 0;
   left: 0;
-  background-image: linear-gradient(to bottom right,#FC5C7D,#6A82FB)!important;
+  background-image: linear-gradient(to right,#410607,#0099F7,#410607)!important;
   opacity: .5; 
 
   }
