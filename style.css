@@ -51,8 +51,8 @@ body:before {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ff0065;
-  box-shadow: 0 0 1rem #ff0065;
+  border-color: #39FF14;
+  box-shadow: 0 0 1rem #39FF14;
 }
 
 kbd {
