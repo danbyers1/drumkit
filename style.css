@@ -75,3 +75,9 @@ h1{
   text-align: center;
   text-shadow: 0 0 20px #6A82FB;
 }
+
+#serviceDef{
+  text-align: center !important;
+  color:white;
+  font-size: 20px;
+}
